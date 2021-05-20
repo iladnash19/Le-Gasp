@@ -136,7 +136,6 @@ private:
 public:
 	joueur(string );
 	void get_nom();
-	void set_nbcoup();
 	int niveau();
 
 };
@@ -356,4 +355,3 @@ int main()
     }while(ab==1);
 
 }
-
